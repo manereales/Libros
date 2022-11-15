@@ -1,0 +1,131 @@
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.exe
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.deps.json
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.runtimeconfig.json
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.pdb
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.AssemblyInfo.cs
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\scopedcss\bundle\ExamS.styles.css
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.csproj.CopyComplete
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.dll
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\refint\ExamS.dll
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.pdb
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.genruntimeconfig.cache
+C:\Users\PC\source\repos\ExamS\ExamS\obj\Debug\net6.0\ref\ExamS.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.csproj.AssemblyReference.cache
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.AssemblyInfoInputs.cache
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.AssemblyInfo.cs
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.csproj.CoreCompileInputs.cache
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.MvcApplicationPartsAssemblyInfo.cs
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\refint\ExamS.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.pdb
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\appsettings.json
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\appsettings.Development.json
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.exe
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.deps.json
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.runtimeconfig.json
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\ExamS.pdb
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\AutoMapper.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Humanizer.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\staticwebassets.build.json
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\staticwebassets.development.json
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\scopedcss\bundle\ExamS.styles.css
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.csproj.CopyComplete
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ExamS.genruntimeconfig.cache
+D:\Backup carpetas\source\repos\ExamS\ExamS\obj\Debug\net6.0\ref\ExamS.dll
